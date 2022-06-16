@@ -1,0 +1,51 @@
+.img{
+    text-align: center;
+}
+.bir{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.iki{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.one{
+    background-color: #7EE5DA;
+    float: left;
+    width: 37%;
+    min-height: 90px;
+    vertical-align:bottom;
+    border: white solid;
+    text-align: center;
+    margin-left: 80px;
+}
+.two{
+    background-color: #70CCC2;
+    float: left;
+    width: 16.7%;
+    min-height: 90px;
+    vertical-align:bottom;
+    text-align: center;
+    border-top: white solid;    
+}
+.three{
+    background-color: #62B3AA;
+            float: left;
+            width: 37%;
+            min-height: 90px;
+            vertical-align:bottom;
+            border: white solid;
+            text-align: center;
+            float: right;
+            margin-right: 80px;
+}
+.end{
+    text-align: center;
+    font-size: 13px;
+    border-top: 20px;
+}
